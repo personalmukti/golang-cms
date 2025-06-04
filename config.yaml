@@ -1,0 +1,5 @@
+# Sample configuration file
+app_name: golang-cms
+db:
+  driver: sqlite3
+  datasource: cms.db
