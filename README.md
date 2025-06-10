@@ -25,6 +25,11 @@ A simple CMS backend built with Go.
     go run main.go
     ```
 
+4. Run tests:
+    ```bash
+    go test ./...
+    ```
+
 ## Configuration
 
 Edit the `config.yaml` file to set up your database and environment variables.
