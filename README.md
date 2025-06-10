@@ -3,9 +3,12 @@ A simple CMS backend built with Go.
 ## Features
 
 - RESTful API for content management
-- User authentication and authorization
 - Modular and extensible architecture
 - SQLite/PostgreSQL support
+- Basic authentication with register/login
+- Forgot/reset password endpoints
+- Google login stub
+- Simple role and permission management
 
 ## Getting Started
 
